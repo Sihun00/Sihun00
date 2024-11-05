@@ -3,7 +3,7 @@
     <a href="https://github.com/Sihun00">
         <img src="https://img.shields.io/github/followers/Sihun00?style=social" alt="GitHub followers">
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:chltkdans159@naver.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
@@ -39,22 +39,20 @@
 
 <h2 align="center">🌱 About Me 🌱</h2>
 
-- 🔭 I’m currently working on **AI and bioinformatics projects**
-- 🌱 I’m learning **advanced deep learning techniques**
-- 👯 I’m looking to collaborate on **machine learning and data science projects**
-- 💬 Ask me about **Python, ML, and bioinformatics**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 🔭 I’m currently a student working on **AI, DL, ML, and People Analytics projects**
+- 🌱 I’m eager to learn and grow, focusing on **advanced deep learning techniques and HR analytics**
+- 👯 I’m looking to collaborate on **machine learning, data science, and People Analytics projects**
+- 💬 Ask me about **Python, ML, bioinformatics, and HR analytics**
+- 📫 How to reach me: [chltkdans159@naver.com](mailto:chltkdans159@naver.com)
 
 <h2 align="center">📫 Connect with me 📫</h2>
 
 <p align="center">
-    <a href="https://linkedin.com/in/yourprofile">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/Sihun00">
         <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://yourblog.com">
+    <a href="https://velog.io/@cbk6557/posts">
         <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog">
     </a>
 </p>
