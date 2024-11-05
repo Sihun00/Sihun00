@@ -42,7 +42,7 @@
 - 🔭 I’m currently a student working on **AI, DL, ML, and People Analytics projects**
 - 🌱 I’m eager to learn and grow, focusing on **advanced deep learning techniques and HR analytics**
 - 👯 I’m looking to collaborate on **machine learning, data science, and People Analytics projects**
-- 💬 Ask me about **Python, ML, bioinformatics, and HR analytics**
+- 💬 Ask me about **Python, ML, and HR analytics**
 - 📫 How to reach me: [chltkdans159@naver.com](mailto:chltkdans159@naver.com)
 
 <h2 align="center">📫 Connect with me 📫</h2>
