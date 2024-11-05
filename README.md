@@ -28,7 +28,7 @@
 <h2 align="center">🚀 Projects 🚀</h2>
 
 - **[Dacon-SCI/Dacon-Bio-Research](https://github.com/Dacon-SCI/Dacon-Bio-Research)**: Bioinformatics competition for cancer classification using AI to analyze genetic mutation data.
-- **[Bitamin_project](https://github.com/Sihun00/Bitamin_project)**: Exploration in Python for data science and ML techniques.
+- **[Bitamin_project](https://github.com/Sihun00/Bitamin_project)**:  A Python-based project leveraging the GPT API to create a resume scoring service, applying data science and machine learning techniques to evaluate and provide insights on resumes.
 - **[Pet-skin-ImageCaptioning](https://github.com/junhoeKu/Pet-skin-ImageCaptioning)**: Deep learning project for image captioning on pet skin conditions.
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
